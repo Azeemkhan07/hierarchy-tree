@@ -1,0 +1,167 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "label": "Parent 1",
+      "children": [
+        {
+          "id": 2,
+          "label": "Child 1.1",
+          "children": []
+        },
+        {
+          "id": 3,
+          "label": "Child 1.2",
+          "children": [
+            {
+              "id": 7,
+              "label": "Grandchild 1.2.1",
+              "children": []
+            },
+            {
+              "id": 8,
+              "label": "Grandchild 1.2.2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "label": "Parent 2",
+      "children": [
+        {
+          "id": 5,
+          "label": "Child 2.1",
+          "children": [
+            {
+              "id": 9,
+              "label": "Grandchild 2.1.1",
+              "children": []
+            },
+            {
+              "id": 10,
+              "label": "Grandchild 2.1.2",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "label": "Child 2.2",
+          "children": [
+            {
+              "id": 11,
+              "label": "Grandchild 2.2.1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "label": "Parent 3",
+      "children": [
+        {
+          "id": 13,
+          "label": "Child 3.1",
+          "children": []
+        },
+        {
+          "id": 14,
+          "label": "Child 3.2",
+          "children": [
+            {
+              "id": 15,
+              "label": "Grandchild 3.2.1",
+              "children": []
+            },
+            {
+              "id": 16,
+              "label": "Grandchild 3.2.2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "label": "Parent 4",
+      "children": [
+        {
+          "id": 18,
+          "label": "Child 4.1",
+          "children": []
+        },
+        {
+          "id": 19,
+          "label": "Child 4.2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "label": "Parent 5",
+      "children": [
+        {
+          "id": 21,
+          "label": "Child 5.1",
+          "children": [
+            {
+              "id": 22,
+              "label": "Grandchild 5.1.1",
+              "children": []
+            },
+            {
+              "id": 23,
+              "label": "Grandchild 5.1.2",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "label": "Child 5.2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "label": "Parent 6",
+      "children": [
+        {
+          "id": 26,
+          "label": "Child 6.1",
+          "children": [
+            {
+              "id": 27,
+              "label": "Grandchild 6.1.1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "label": "Child 6.2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "label": "Parent 7",
+      "children": [
+        {
+          "id": 30,
+          "label": "Child 7.1",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
