@@ -1,146 +1,107 @@
 {
-  "nodes": [
+  "id": 1,
+  "label": "Node 1",
+  "children": [
     {
-      "id": 1,
-      "label": "Parent 1",
+      "id": 2,
+      "label": "Node 2",
       "children": [
         {
-          "id": 2,
-          "label": "Child 1.1",
+          "id": 4,
+          "label": "Node 4",
+          "children": []
+        },
+        {
+          "id": 5,
+          "label": "Node 5",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "label": "Node 3",
+      "children": [
+        {
+          "id": 6,
+          "label": "Node 6",
           "children": [
             {
-              "id": 4,
-              "label": "Child 2.1",
-              "children": [
-                {
-                  "id": 9,
-                  "label": "Grandchild 2.1.1",
-                  "children": []
-                },
-                {
-                  "id": 10,
-                  "label": "Grandchild 2.1.2",
-                  "children": []
-                }
-              ]
+              "id": 10,
+              "label": "Node 10",
+              "children": []
             },
             {
-              "id": 5,
-              "label": "Child 2.2",
-              "children": [
-                {
-                  "id": 11,
-                  "label": "Grandchild 2.2.1",
-                  "children": []
-                }
-              ]
+              "id": 11,
+              "label": "Node 11",
+              "children": []
             }
           ]
         },
         {
-          "id": 3,
-          "label": "Child 1.2",
+          "id": 7,
+          "label": "Node 7",
+          "children": []
+        },
+        {
+          "id": 8,
+          "label": "Node 8",
           "children": [
             {
-              "id": 6,
-              "label": "Child 3.1",
+              "id": 12,
+              "label": "Node 12",
               "children": []
             },
             {
-              "id": 7,
-              "label": "Child 3.2",
-              "children": [
-                {
-                  "id": 15,
-                  "label": "Grandchild 3.2.1",
-                  "children": []
-                },
-                {
-                  "id": 16,
-                  "label": "Grandchild 3.2.2",
-                  "children": []
-                }
-              ]
+              "id": 13,
+              "label": "Node 13",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "label": "Node 9",
+          "children": [
+            {
+              "id": 14,
+              "label": "Node 14",
+              "children": []
+            },
+            {
+              "id": 15,
+              "label": "Node 15",
+              "children": []
             }
           ]
         }
       ]
     },
     {
-      "id": 17,
-      "label": "Parent 2",
+      "id": 16,
+      "label": "Node 16",
       "children": [
         {
-          "id": 18,
-          "label": "Child 4.1",
+          "id": 17,
+          "label": "Node 17",
           "children": []
         },
         {
-          "id": 19,
-          "label": "Child 4.2",
+          "id": 18,
+          "label": "Node 18",
           "children": []
         }
       ]
+    },
+    {
+      "id": 19,
+      "label": "Node 19",
+      "children": []
     },
     {
       "id": 20,
-      "label": "Parent 3",
-      "children": [
-        {
-          "id": 21,
-          "label": "Child 5.1",
-          "children": [
-            {
-              "id": 22,
-              "label": "Grandchild 5.1.1",
-              "children": []
-            },
-            {
-              "id": 23,
-              "label": "Grandchild 5.1.2",
-              "children": []
-            }
-          ]
-        },
-        {
-          "id": 24,
-          "label": "Child 5.2",
-          "children": []
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "label": "Parent 4",
-      "children": [
-        {
-          "id": 26,
-          "label": "Child 6.1",
-          "children": [
-            {
-              "id": 27,
-              "label": "Grandchild 6.1.1",
-              "children": []
-            }
-          ]
-        },
-        {
-          "id": 28,
-          "label": "Child 6.2",
-          "children": []
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "label": "Parent 5",
-      "children": [
-        {
-          "id": 30,
-          "label": "Child 7.1",
-          "children": []
-        }
-      ]
+      "label": "Node 20",
+      "children": []
     }
   ]
 }
