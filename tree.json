@@ -7,81 +7,60 @@
         {
           "id": 2,
           "label": "Child 1.1",
-          "children": []
+          "children": [
+            {
+              "id": 4,
+              "label": "Child 2.1",
+              "children": [
+                {
+                  "id": 9,
+                  "label": "Grandchild 2.1.1",
+                  "children": []
+                },
+                {
+                  "id": 10,
+                  "label": "Grandchild 2.1.2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "label": "Child 2.2",
+              "children": [
+                {
+                  "id": 11,
+                  "label": "Grandchild 2.2.1",
+                  "children": []
+                }
+              ]
+            }
+          ]
         },
         {
           "id": 3,
           "label": "Child 1.2",
           "children": [
             {
+              "id": 6,
+              "label": "Child 3.1",
+              "children": []
+            },
+            {
               "id": 7,
-              "label": "Grandchild 1.2.1",
-              "children": []
-            },
-            {
-              "id": 8,
-              "label": "Grandchild 1.2.2",
-              "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "label": "Parent 2",
-      "children": [
-        {
-          "id": 5,
-          "label": "Child 2.1",
-          "children": [
-            {
-              "id": 9,
-              "label": "Grandchild 2.1.1",
-              "children": []
-            },
-            {
-              "id": 10,
-              "label": "Grandchild 2.1.2",
-              "children": []
-            }
-          ]
-        },
-        {
-          "id": 6,
-          "label": "Child 2.2",
-          "children": [
-            {
-              "id": 11,
-              "label": "Grandchild 2.2.1",
-              "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "label": "Parent 3",
-      "children": [
-        {
-          "id": 13,
-          "label": "Child 3.1",
-          "children": []
-        },
-        {
-          "id": 14,
-          "label": "Child 3.2",
-          "children": [
-            {
-              "id": 15,
-              "label": "Grandchild 3.2.1",
-              "children": []
-            },
-            {
-              "id": 16,
-              "label": "Grandchild 3.2.2",
-              "children": []
+              "label": "Child 3.2",
+              "children": [
+                {
+                  "id": 15,
+                  "label": "Grandchild 3.2.1",
+                  "children": []
+                },
+                {
+                  "id": 16,
+                  "label": "Grandchild 3.2.2",
+                  "children": []
+                }
+              ]
             }
           ]
         }
@@ -89,7 +68,7 @@
     },
     {
       "id": 17,
-      "label": "Parent 4",
+      "label": "Parent 2",
       "children": [
         {
           "id": 18,
@@ -105,7 +84,7 @@
     },
     {
       "id": 20,
-      "label": "Parent 5",
+      "label": "Parent 3",
       "children": [
         {
           "id": 21,
@@ -132,7 +111,7 @@
     },
     {
       "id": 25,
-      "label": "Parent 6",
+      "label": "Parent 4",
       "children": [
         {
           "id": 26,
@@ -154,7 +133,7 @@
     },
     {
       "id": 29,
-      "label": "Parent 7",
+      "label": "Parent 5",
       "children": [
         {
           "id": 30,
