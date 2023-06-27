@@ -1,107 +1,27 @@
 {
-  "id": 1,
-  "label": "Node 1",
+  "name": "Root",
   "children": [
     {
-      "id": 2,
-      "label": "Node 2",
+      "name": "Child 1",
       "children": [
         {
-          "id": 4,
-          "label": "Node 4",
-          "children": []
+          "name": "Grandchild 1"
         },
         {
-          "id": 5,
-          "label": "Node 5",
-          "children": []
+          "name": "Grandchild 2"
         }
       ]
     },
     {
-      "id": 3,
-      "label": "Node 3",
+      "name": "Child 2",
       "children": [
         {
-          "id": 6,
-          "label": "Node 6",
-          "children": [
-            {
-              "id": 10,
-              "label": "Node 10",
-              "children": []
-            },
-            {
-              "id": 11,
-              "label": "Node 11",
-              "children": []
-            }
-          ]
+          "name": "Grandchild 3"
         },
         {
-          "id": 7,
-          "label": "Node 7",
-          "children": []
-        },
-        {
-          "id": 8,
-          "label": "Node 8",
-          "children": [
-            {
-              "id": 12,
-              "label": "Node 12",
-              "children": []
-            },
-            {
-              "id": 13,
-              "label": "Node 13",
-              "children": []
-            }
-          ]
-        },
-        {
-          "id": 9,
-          "label": "Node 9",
-          "children": [
-            {
-              "id": 14,
-              "label": "Node 14",
-              "children": []
-            },
-            {
-              "id": 15,
-              "label": "Node 15",
-              "children": []
-            }
-          ]
+          "name": "Grandchild 4"
         }
       ]
-    },
-    {
-      "id": 16,
-      "label": "Node 16",
-      "children": [
-        {
-          "id": 17,
-          "label": "Node 17",
-          "children": []
-        },
-        {
-          "id": 18,
-          "label": "Node 18",
-          "children": []
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "label": "Node 19",
-      "children": []
-    },
-    {
-      "id": 20,
-      "label": "Node 20",
-      "children": []
     }
   ]
 }
