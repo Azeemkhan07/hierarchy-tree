@@ -1,52 +1,46 @@
 {
-  "name": "Root",
+  "name": "Node 1",
   "children": [
     {
-      "name": "Child 1",
+      "name": "Node 2",
       "children": [
         {
-          "name": "Grandchild 1",
+          "name": "Node 3",
           "children": [
             {
-              "name": "Great-grandchild 1"
+              "name": "Node 4",
+              "children": [
+                {
+                  "name": "Node 5",
+                  "children": [
+                    {
+                      "name": "Node 6"
+                    },
+                    {
+                      "name": "Node 7"
+                    }
+                  ]
+                }
+              ]
             },
             {
-              "name": "Great-grandchild 2"
+              "name": "Node 8"
             }
           ]
         },
         {
-          "name": "Grandchild 2"
+          "name": "Node 9"
         }
       ]
     },
     {
-      "name": "Child 2",
+      "name": "Node 10",
       "children": [
         {
-          "name": "Grandchild 3",
-          "children": [
-            {
-              "name": "Great-grandchild 3"
-            },
-            {
-              "name": "Great-grandchild 4"
-            }
-          ]
+          "name": "Node 11"
         },
         {
-          "name": "Grandchild 4"
-        }
-      ]
-    },
-    {
-      "name": "Child 3",
-      "children": [
-        {
-          "name": "Grandchild 5"
-        },
-        {
-          "name": "Grandchild 6"
+          "name": "Node 12"
         }
       ]
     }
