@@ -1,35 +1,35 @@
 const data = {
-  "name": "Root",
+  "name": "Node 1",
   "children": [
     {
-      "name": "Child 1",
+      "name": "Node 2",
       "children": [
         {
-          "name": "Grandchild 1",
+          "name": "Node 3",
           "children": [
             {
-              "name": "Great Grandchild 1",
+              "name": "Node 4",
               "children": [
                 {
-                  "name": "Great Great Grandchild 1"
+                  "name": "Node 5"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Grandchild 2"
+          "name": "Node 6"
         }
       ]
     },
     {
-      "name": "Child 2",
+      "name": "Node 7",
       "children": [
         {
-          "name": "Grandchild 3"
+          "name": "Node 8"
         },
         {
-          "name": "Grandchild 4"
+          "name": "Node 9"
         }
       ]
     }
