@@ -2,73 +2,78 @@
   "name": "Root",
   "children": [
     {
-      "name": "Child 1",
+      "name": "Node 1",
       "children": [
         {
-          "name": "Grandchild 1",
+          "name": "Node 2",
           "children": [
             {
-              "name": "Great-grandchild 1",
+              "name": "Node 3",
               "children": [
                 {
-                  "name": "Great-great-grandchild 1"
+                  "name": "Node 4",
+                  "children": [
+                    {
+                      "name": "Node 5"
+                    },
+                    {
+                      "name": "Node 6"
+                    }
+                  ]
                 },
                 {
-                  "name": "Great-great-grandchild 2"
+                  "name": "Node 7"
                 }
               ]
             },
             {
-              "name": "Great-grandchild 2"
+              "name": "Node 8"
+            },
+            {
+              "name": "Node 9"
             }
           ]
         },
         {
-          "name": "Grandchild 2"
-        },
-        {
-          "name": "Grandchild 3"
-        }
-      ]
-    },
-    {
-      "name": "Child 2",
-      "children": [
-        {
-          "name": "Grandchild 4",
+          "name": "Node 10",
           "children": [
             {
-              "name": "Great-grandchild 3"
-            },
-            {
-              "name": "Great-grandchild 4",
+              "name": "Node 11",
               "children": [
                 {
-                  "name": "Great-great-grandchild 3"
+                  "name": "Node 12"
+                },
+                {
+                  "name": "Node 13",
+                  "children": [
+                    {
+                      "name": "Node 14"
+                    }
+                  ]
                 }
               ]
+            },
+            {
+              "name": "Node 15"
+            },
+            {
+              "name": "Node 16"
             }
           ]
         },
         {
-          "name": "Grandchild 5"
-        },
-        {
-          "name": "Grandchild 6"
-        }
-      ]
-    },
-    {
-      "name": "Child 3",
-      "children": [
-        {
-          "name": "Grandchild 7",
+          "name": "Node 17",
           "children": [
             {
-              "name": "Great-grandchild 5"
-            },
-            {
-              "name": "Great-grandchild 6"
+              "name": "Node 18",
+              "children": [
+                {
+                  "name": "Node 19"
+                },
+                {
+                  "name": "Node 20"
+                }
+              ]
             }
           ]
         }
