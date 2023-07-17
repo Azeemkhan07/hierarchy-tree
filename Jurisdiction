@@ -1,0 +1,6264 @@
+{
+    "ENT-1": {
+        "EntityName": "Demo (NZ) Limited",
+        "EntityType": "Pty Ltd",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 65,
+        "Address_Line_2": "Demo Street",
+        "Address_Line_3": 2000,
+        "Shareholder": [
+            "Demo Holding Pty Ltd"
+        ],
+        "Jurisdiction": "New Zealand",
+        "IssuedDate": [
+            "10/06/2011"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-8"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-1",
+        "Entity_Short_Name": "Demo (NZ) Limited",
+        "Entity_Unique_ID": "ENT-1",
+        "countryID": "NZ",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-8"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Holding Pty Ltd",
+            "Demo Finance LLC",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-8",
+            "ENT-3",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-2": {
+        "EntityName": "Demo Australia Pty Ltd",
+        "EntityType": "Pty Ltd",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 1,
+        "Address_Line_2": "Demo Street",
+        "Address_Line_3": 2000,
+        "Shareholder": [
+            "Demo Holding Pty Ltd"
+        ],
+        "Jurisdiction": "Australia",
+        "IssuedDate": [
+            "01/06/2011"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-8"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-2",
+        "Entity_Short_Name": "Demo Australia Pty Ltd",
+        "Entity_Unique_ID": "ENT-2",
+        "countryID": "AU",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-8"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": true,
+        "Indirect_Parents": [
+            "Demo Holding Pty Ltd",
+            "Demo Finance LLC",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-8",
+            "ENT-3",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-3": {
+        "EntityName": "Demo Finance LLC",
+        "EntityType": "BV",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 1441,
+        "Address_Line_2": "Demostraat",
+        "Address_Line_3": "1068 ZZ",
+        "Shareholder": [
+            "Demo Holding BV"
+        ],
+        "Jurisdiction": "USA",
+        "IssuedDate": [
+            "31/05/2010"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-6"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-3",
+        "Entity_Short_Name": "Demo Finance LLC",
+        "Entity_Unique_ID": "ENT-3",
+        "countryID": "US",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-6"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-4": {
+        "EntityName": "Demo France Holding SAS",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 112,
+        "Address_Line_2": "Demo Avenue",
+        "Address_Line_3": "D01",
+        "Shareholder": [
+            "Demo Ireland Limited"
+        ],
+        "Jurisdiction": "France",
+        "IssuedDate": [
+            "31/03/2022"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-10"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-4",
+        "Entity_Short_Name": "Demo France Holding SAS",
+        "Entity_Unique_ID": "ENT-4",
+        "countryID": "FR",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-10"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Ireland Limited",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-10",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-5": {
+        "EntityName": "Demo HK Limited",
+        "EntityType": "SAS",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": "24 Floor",
+        "Address_Line_2": "Rue de D�monstration",
+        "Address_Line_3": 75000,
+        "Shareholder": [
+            "Demo France Holding SAS"
+        ],
+        "Jurisdiction": "Hong Kong",
+        "IssuedDate": [
+            "01/04/2022"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-4"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-5",
+        "Entity_Short_Name": "Demo HK Limited",
+        "Entity_Unique_ID": "ENT-5",
+        "countryID": "HK",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-4"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo France Holding SAS",
+            "Demo Ireland Limited",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-4",
+            "ENT-10",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-6": {
+        "EntityName": "Demo Holding BV",
+        "EntityType": "plc",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 32,
+        "Address_Line_2": "Demo Square",
+        "Address_Line_3": "E14 5GL",
+        "Shareholder": [
+            "Demo TopCo plc"
+        ],
+        "Jurisdiction": "Netherlands",
+        "IssuedDate": [
+            "24/04/2021"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-21"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-6",
+        "Entity_Short_Name": "Demo Holding BV",
+        "Entity_Unique_ID": "ENT-6",
+        "countryID": "NL",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-21"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-21"
+        ]
+    },
+    "ENT-7": {
+        "EntityName": "Demo Holding GmbH",
+        "EntityType": "BV",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 12,
+        "Address_Line_2": "Demostraat",
+        "Address_Line_3": "1068 ZZ",
+        "Shareholder": [
+            "Demo Holding BV"
+        ],
+        "Jurisdiction": "Germany",
+        "IssuedDate": [
+            "20/09/2018"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-6"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-7",
+        "Entity_Short_Name": "Demo Holding GmbH",
+        "Entity_Unique_ID": "ENT-7",
+        "countryID": "DE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-6"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-8": {
+        "EntityName": "Demo Holding Pty Ltd",
+        "EntityType": "LLC",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 1,
+        "Address_Line_2": "Demo Drive",
+        "Address_Line_3": 19808,
+        "Shareholder": [
+            "Demo Finance LLC"
+        ],
+        "Jurisdiction": "Australia",
+        "IssuedDate": [
+            "10/02/2011"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-3"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-8",
+        "Entity_Short_Name": "Demo Holding Pty Ltd",
+        "Entity_Unique_ID": "ENT-8",
+        "countryID": "AU",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-3"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Finance LLC",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-3",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-9": {
+        "EntityName": "Demo India Pvt Ltd",
+        "EntityType": "BV",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 70,
+        "Address_Line_2": "Demostraat",
+        "Address_Line_3": "1068 ZZ",
+        "Shareholder": [
+            "Demo Holding BV"
+        ],
+        "Jurisdiction": "India",
+        "IssuedDate": [
+            "31/05/2001"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-6"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-9",
+        "Entity_Short_Name": "Demo India Pvt Ltd",
+        "Entity_Unique_ID": "ENT-9",
+        "countryID": "IN",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-6"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-10": {
+        "EntityName": "Demo Ireland Limited",
+        "EntityType": "BV",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 14,
+        "Address_Line_2": "Demostraat",
+        "Address_Line_3": "1068 ZZ",
+        "Shareholder": [
+            "Demo Holding BV"
+        ],
+        "Jurisdiction": "Ireland",
+        "IssuedDate": [
+            "10/06/2001"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-6"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-10",
+        "Entity_Short_Name": "Demo Ireland Limited",
+        "Entity_Unique_ID": "ENT-10",
+        "countryID": "IE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-6"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-11": {
+        "EntityName": "Demo Malaysia Sdn. Bhd.",
+        "EntityType": "SAS",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 1,
+        "Address_Line_2": "Rue de D�monstration",
+        "Address_Line_3": 75000,
+        "Shareholder": [
+            "Demo France Holding SAS"
+        ],
+        "Jurisdiction": "Malaysia",
+        "IssuedDate": [
+            "01/04/2022"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-4"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-11",
+        "Entity_Short_Name": "Demo Malaysia Sdn. Bhd.",
+        "Entity_Unique_ID": "ENT-11",
+        "countryID": "MY",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-4"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo France Holding SAS",
+            "Demo Ireland Limited",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-4",
+            "ENT-10",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-12": {
+        "EntityName": "Demo Nordic AB",
+        "EntityType": "GmbH",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 6,
+        "Address_Line_2": "Demo-Stra�e",
+        "Address_Line_3": 60306,
+        "Shareholder": [
+            "Demo Holding GmbH"
+        ],
+        "Jurisdiction": "Sweden",
+        "IssuedDate": [
+            "20/09/2018"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-7"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-12",
+        "Entity_Short_Name": "Demo Nordic AB",
+        "Entity_Unique_ID": "ENT-12",
+        "countryID": "SE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-7"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Holding GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-7",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-13": {
+        "EntityName": "Demo SAS",
+        "EntityType": "GmbH",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 112,
+        "Address_Line_2": "Demo-Stra�e",
+        "Address_Line_3": 60306,
+        "Shareholder": [
+            "Demo Holding GmbH"
+        ],
+        "Jurisdiction": "France",
+        "IssuedDate": [
+            "20/03/2020"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-7"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-13",
+        "Entity_Short_Name": "Demo SAS",
+        "Entity_Unique_ID": "ENT-13",
+        "countryID": "FR",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-7"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Holding GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-7",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-14": {
+        "EntityName": "Demo Services Aps",
+        "EntityType": "AB",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 10,
+        "Address_Line_2": "Demo Street",
+        "Address_Line_3": "111 31",
+        "Shareholder": [
+            "Demo Nordic AB"
+        ],
+        "Jurisdiction": "Denmark",
+        "IssuedDate": [
+            "24/03/2020"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-12"
+        ],
+        "Amount": [
+            100
+        ],
+        "NumberOfShares": [
+            100
+        ],
+        "ValuePerShare": [
+            100
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-14",
+        "Entity_Short_Name": "Demo Services Aps",
+        "Entity_Unique_ID": "ENT-14",
+        "countryID": "DK",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-12"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Nordic AB",
+            "Demo Holding GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-12",
+            "ENT-7",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-15": {
+        "EntityName": "Demo Services BV",
+        "EntityType": "BV",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 32,
+        "Address_Line_2": "Demostraat",
+        "Address_Line_3": "1068 ZZ",
+        "Shareholder": [
+            "Demo Holding BV"
+        ],
+        "Jurisdiction": "Netherlands",
+        "IssuedDate": [
+            "20/10/2019"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-6"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-15",
+        "Entity_Short_Name": "Demo Services BV",
+        "Entity_Unique_ID": "ENT-15",
+        "countryID": "NL",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-6"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-16": {
+        "EntityName": "Demo Solutions Holding Ltd",
+        "EntityType": "BV",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 15,
+        "Address_Line_2": "Demostraat",
+        "Address_Line_3": "1068 ZZ",
+        "Shareholder": [
+            "Demo Holding BV"
+        ],
+        "Jurisdiction": "UK",
+        "IssuedDate": [
+            "31/08/2022"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-6"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-16",
+        "Entity_Short_Name": "Demo Solutions Holding Ltd",
+        "Entity_Unique_ID": "ENT-16",
+        "countryID": "GB",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-6"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-17": {
+        "EntityName": "Demo Solutions Oy",
+        "EntityType": "BV",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 15,
+        "Address_Line_2": "Demostraat",
+        "Address_Line_3": "1068 ZZ",
+        "Shareholder": [
+            "Demo Holding BV"
+        ],
+        "Jurisdiction": "Finland",
+        "IssuedDate": [
+            "31/05/2011"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-6"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-17",
+        "Entity_Short_Name": "Demo Solutions Oy",
+        "Entity_Unique_ID": "ENT-17",
+        "countryID": "FI",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-6"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-18": {
+        "EntityName": "Demo Solutions S. de R.L.,",
+        "EntityType": "Pty Ltd",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 45,
+        "Address_Line_2": "Demo Street",
+        "Address_Line_3": 2000,
+        "Shareholder": [
+            "Demo Holding Pty Ltd",
+            "Demo Finance LLC"
+        ],
+        "Jurisdiction": "Mexico",
+        "IssuedDate": [
+            "10/07/2011",
+            "10/07/2011"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-8",
+            "ENT-3"
+        ],
+        "Amount": [
+            50,
+            50
+        ],
+        "NumberOfShares": [
+            50,
+            50
+        ],
+        "ValuePerShare": [
+            50,
+            50
+        ],
+        "CapitalType": [
+            "Ordinary",
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "50%",
+            "50%"
+        ],
+        "Entity_ID": "ENT-18",
+        "Entity_Short_Name": "Demo Solutions S. de R.L.,",
+        "Entity_Unique_ID": "ENT-18",
+        "countryID": "MX",
+        "ParentCompanyHolding": [
+            "50%",
+            "50%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-8",
+            "ENT-3"
+        ],
+        "GraphParentCompanyHolding": [
+            "50%",
+            "50%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Holding Pty Ltd",
+            "Demo Finance LLC",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-8",
+            "ENT-3",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-19": {
+        "EntityName": "Demo Solutions SL",
+        "EntityType": "BV",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 77,
+        "Address_Line_2": "Demostraat",
+        "Address_Line_3": "1068 ZZ",
+        "Shareholder": [
+            "Demo Holding BV"
+        ],
+        "Jurisdiction": "Spain",
+        "IssuedDate": [
+            "24/04/2021"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-6"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-19",
+        "Entity_Short_Name": "Demo Solutions SL",
+        "Entity_Unique_ID": "ENT-19",
+        "countryID": "ES",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-6"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-20": {
+        "EntityName": "Demo Solutions SL (PT branch)",
+        "EntityType": "SL",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 11,
+        "Address_Line_2": "Carretera de demostraci�n",
+        "Address_Line_3": 28012,
+        "Shareholder": [
+            "Demo Solutions SL"
+        ],
+        "Jurisdiction": "Portugal",
+        "IssuedDate": [
+            "31/05/2001"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-19"
+        ],
+        "Amount": [
+            0
+        ],
+        "NumberOfShares": [
+            0
+        ],
+        "ValuePerShare": [
+            0
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-20",
+        "Entity_Short_Name": "Demo Solutions SL (PT branch)",
+        "Entity_Unique_ID": "ENT-20",
+        "countryID": "PT",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-19"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Solutions SL",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-19",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-21": {
+        "EntityName": "Demo TopCo plc",
+        "EntityType": "#N/A",
+        "FiscalYearend": "#N/A",
+        "Address_Line_1": 15,
+        "Address_Line_2": "#N/A",
+        "Address_Line_3": "#N/A",
+        "Shareholder": [
+            "not included- topco"
+        ],
+        "Jurisdiction": "UK",
+        "IssuedDate": [
+            "03/03/2020"
+        ],
+        "ParentCompanyIDs": [
+            "#N/A"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-21",
+        "Entity_Short_Name": "Demo TopCo plc",
+        "Entity_Unique_ID": "ENT-21",
+        "countryID": "GB",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "#N/A"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [],
+        "Indirect_Parents_IDS": []
+    },
+    "ENT-22": {
+        "EntityName": "Demo Australia 1 Pty Ltd",
+        "EntityType": "Pty Ltd",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 54,
+        "Address_Line_2": "Demo Street",
+        "Address_Line_3": 2000,
+        "Shareholder": [
+            "Demo Holding Pty Ltd"
+        ],
+        "Jurisdiction": "Australia",
+        "IssuedDate": [
+            "06/05/2003"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-8"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-22",
+        "Entity_Short_Name": "Demo Australia 1 Pty Ltd",
+        "Entity_Unique_ID": "ENT-22",
+        "countryID": "AU",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-8"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": true,
+        "Indirect_Parents": [
+            "Demo Holding Pty Ltd",
+            "Demo Finance LLC",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-8",
+            "ENT-3",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-23": {
+        "EntityName": "Demo Australia 2 Pty Ltd",
+        "EntityType": "plc",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 54,
+        "Address_Line_2": "Demo Square",
+        "Address_Line_3": "E14 5GL",
+        "Shareholder": [
+            "Demo TopCo plc",
+            "Demo Australia 1 Pty Ltd"
+        ],
+        "Jurisdiction": "Australia",
+        "IssuedDate": [
+            "06/05/2003",
+            "06/05/2003"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-21",
+            "ENT-22"
+        ],
+        "Amount": [
+            1,
+            1
+        ],
+        "NumberOfShares": [
+            1,
+            1
+        ],
+        "ValuePerShare": [
+            1,
+            1
+        ],
+        "CapitalType": [
+            "Ordinary",
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "50%",
+            "50%"
+        ],
+        "Entity_ID": "ENT-23",
+        "Entity_Short_Name": "Demo Australia 2 Pty Ltd",
+        "Entity_Unique_ID": "ENT-23",
+        "countryID": "AU",
+        "ParentCompanyHolding": [
+            "50%",
+            "50%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-21",
+            "ENT-22"
+        ],
+        "GraphParentCompanyHolding": [
+            "50%",
+            "50%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo TopCo plc",
+            "Demo Australia 1 Pty Ltd",
+            "Demo Holding Pty Ltd",
+            "Demo Finance LLC",
+            "Demo Holding BV"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-21",
+            "ENT-22",
+            "ENT-8",
+            "ENT-3",
+            "ENT-6"
+        ]
+    },
+    "ENT-24": {
+        "EntityName": "Demo Australia 3 Pty Ltd",
+        "EntityType": "Pty Ltd",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 54,
+        "Address_Line_2": "Demo Melbourne Road",
+        "Address_Line_3": 987,
+        "Shareholder": [
+            "Demo Australia 1 Pty Ltd"
+        ],
+        "Jurisdiction": "Australia",
+        "IssuedDate": [
+            "06/05/2003"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-22"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-24",
+        "Entity_Short_Name": "Demo Australia 3 Pty Ltd",
+        "Entity_Unique_ID": "ENT-24",
+        "countryID": "AU",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-22"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Australia 1 Pty Ltd",
+            "Demo Holding Pty Ltd",
+            "Demo Finance LLC",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-22",
+            "ENT-8",
+            "ENT-3",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-25": {
+        "EntityName": "Demo Australia 4 Pty Ltd",
+        "EntityType": "Pty Ltd",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 54,
+        "Address_Line_2": "Demo Melbourne Road",
+        "Address_Line_3": 987,
+        "Shareholder": [
+            "Demo Australia 1 Pty Ltd"
+        ],
+        "Jurisdiction": "Australia",
+        "IssuedDate": [
+            "06/05/2003"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-22"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-25",
+        "Entity_Short_Name": "Demo Australia 4 Pty Ltd",
+        "Entity_Unique_ID": "ENT-25",
+        "countryID": "AU",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-22"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Australia 1 Pty Ltd",
+            "Demo Holding Pty Ltd",
+            "Demo Finance LLC",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-22",
+            "ENT-8",
+            "ENT-3",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-26": {
+        "EntityName": "Demo Australia 5 Pty Ltd",
+        "EntityType": "Pty Ltd",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 54,
+        "Address_Line_2": "Demo Melbourne Road",
+        "Address_Line_3": 987,
+        "Shareholder": [
+            "Demo Australia 3 Pty Ltd"
+        ],
+        "Jurisdiction": "Australia",
+        "IssuedDate": [
+            "06/05/2003"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-24"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-26",
+        "Entity_Short_Name": "Demo Australia 5 Pty Ltd",
+        "Entity_Unique_ID": "ENT-26",
+        "countryID": "AU",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-24"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Australia 3 Pty Ltd",
+            "Demo Australia 1 Pty Ltd",
+            "Demo Holding Pty Ltd",
+            "Demo Finance LLC",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-24",
+            "ENT-22",
+            "ENT-8",
+            "ENT-3",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-27": {
+        "EntityName": "Demo Australia 6 Pty Ltd",
+        "EntityType": "Pty Ltd",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 54,
+        "Address_Line_2": "Demo Melbourne Road",
+        "Address_Line_3": 987,
+        "Shareholder": [
+            "Demo Australia 4 Pty Ltd"
+        ],
+        "Jurisdiction": "Australia",
+        "IssuedDate": [
+            "06/05/2003"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-25"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-27",
+        "Entity_Short_Name": "Demo Australia 6 Pty Ltd",
+        "Entity_Unique_ID": "ENT-27",
+        "countryID": "AU",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-25"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Australia 4 Pty Ltd",
+            "Demo Australia 1 Pty Ltd",
+            "Demo Holding Pty Ltd",
+            "Demo Finance LLC",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-25",
+            "ENT-22",
+            "ENT-8",
+            "ENT-3",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-28": {
+        "EntityName": "Demo Australia 7 Pty Ltd",
+        "EntityType": "Pty Ltd",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 54,
+        "Address_Line_2": "Demo Melbourne Road",
+        "Address_Line_3": 987,
+        "Shareholder": [
+            "Demo Australia 4 Pty Ltd"
+        ],
+        "Jurisdiction": "Australia",
+        "IssuedDate": [
+            "06/05/2003"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-25"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-28",
+        "Entity_Short_Name": "Demo Australia 7 Pty Ltd",
+        "Entity_Unique_ID": "ENT-28",
+        "countryID": "AU",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-25"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": true,
+        "Indirect_Parents": [
+            "Demo Australia 4 Pty Ltd",
+            "Demo Australia 1 Pty Ltd",
+            "Demo Holding Pty Ltd",
+            "Demo Finance LLC",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-25",
+            "ENT-22",
+            "ENT-8",
+            "ENT-3",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-29": {
+        "EntityName": "Demo Australia 8 Pty Ltd",
+        "EntityType": "Pty Ltd",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 54,
+        "Address_Line_2": "Demo Melbourne Road",
+        "Address_Line_3": 987,
+        "Shareholder": [
+            "Demo Australia 4 Pty Ltd"
+        ],
+        "Jurisdiction": "Australia",
+        "IssuedDate": [
+            "06/05/2003"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-25"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-29",
+        "Entity_Short_Name": "Demo Australia 8 Pty Ltd",
+        "Entity_Unique_ID": "ENT-29",
+        "countryID": "AU",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-25"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Australia 4 Pty Ltd",
+            "Demo Australia 1 Pty Ltd",
+            "Demo Holding Pty Ltd",
+            "Demo Finance LLC",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-25",
+            "ENT-22",
+            "ENT-8",
+            "ENT-3",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-30": {
+        "EntityName": "Demo Australia 9 Pty Ltd",
+        "EntityType": "Pty Ltd",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 54,
+        "Address_Line_2": "Demo Melbourne Road",
+        "Address_Line_3": 987,
+        "Shareholder": [
+            "Demo Australia 5 Pty Ltd"
+        ],
+        "Jurisdiction": "Australia",
+        "IssuedDate": [
+            "06/05/2003"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-26"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-30",
+        "Entity_Short_Name": "Demo Australia 9 Pty Ltd",
+        "Entity_Unique_ID": "ENT-30",
+        "countryID": "AU",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-26"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Australia 5 Pty Ltd",
+            "Demo Australia 3 Pty Ltd",
+            "Demo Australia 1 Pty Ltd",
+            "Demo Holding Pty Ltd",
+            "Demo Finance LLC",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-26",
+            "ENT-24",
+            "ENT-22",
+            "ENT-8",
+            "ENT-3",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-31": {
+        "EntityName": "Demo Australia 10 Pty Ltd",
+        "EntityType": "Pty Ltd",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 54,
+        "Address_Line_2": "Demo Melbourne Road",
+        "Address_Line_3": 987,
+        "Shareholder": [
+            "Demo Australia 5 Pty Ltd"
+        ],
+        "Jurisdiction": "Australia",
+        "IssuedDate": [
+            "06/05/2003"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-26"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-31",
+        "Entity_Short_Name": "Demo Australia 10 Pty Ltd",
+        "Entity_Unique_ID": "ENT-31",
+        "countryID": "AU",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-26"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Australia 5 Pty Ltd",
+            "Demo Australia 3 Pty Ltd",
+            "Demo Australia 1 Pty Ltd",
+            "Demo Holding Pty Ltd",
+            "Demo Finance LLC",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-26",
+            "ENT-24",
+            "ENT-22",
+            "ENT-8",
+            "ENT-3",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-32": {
+        "EntityName": "Demo UK Entity 1",
+        "EntityType": "plc",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 6,
+        "Address_Line_2": "Demo Square",
+        "Address_Line_3": "E14 5GL",
+        "Shareholder": [
+            "Demo TopCo plc"
+        ],
+        "Jurisdiction": "UK",
+        "IssuedDate": [
+            "18/03/1999"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-21"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-32",
+        "Entity_Short_Name": "Demo UK Entity 1",
+        "Entity_Unique_ID": "ENT-32",
+        "countryID": "GB",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-21"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-21"
+        ]
+    },
+    "ENT-33": {
+        "EntityName": "Demo UK Entity 2",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 6,
+        "Address_Line_2": "Demo London House",
+        "Address_Line_3": "SW3 4BH",
+        "Shareholder": [
+            "Demo UK Entity 1"
+        ],
+        "Jurisdiction": "UK",
+        "IssuedDate": [
+            "18/03/1999"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-32"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-33",
+        "Entity_Short_Name": "Demo UK Entity 2",
+        "Entity_Unique_ID": "ENT-33",
+        "countryID": "GB",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-32"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo UK Entity 1",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-32",
+            "ENT-21"
+        ]
+    },
+    "ENT-34": {
+        "EntityName": "Demo UK Entity 3",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 6,
+        "Address_Line_2": "Demo London House",
+        "Address_Line_3": "SW3 4BH",
+        "Shareholder": [
+            "Demo UK Entity 1"
+        ],
+        "Jurisdiction": "UK",
+        "IssuedDate": [
+            "18/03/1999"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-32"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-34",
+        "Entity_Short_Name": "Demo UK Entity 3",
+        "Entity_Unique_ID": "ENT-34",
+        "countryID": "GB",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-32"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo UK Entity 1",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-32",
+            "ENT-21"
+        ]
+    },
+    "ENT-35": {
+        "EntityName": "Demo UK Entity 4",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 6,
+        "Address_Line_2": "Demo London House",
+        "Address_Line_3": "SW3 4BH",
+        "Shareholder": [
+            "Demo UK Entity 2",
+            "Demo UK Entity 3"
+        ],
+        "Jurisdiction": "UK",
+        "IssuedDate": [
+            "18/03/1999",
+            "18/03/1999"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-33",
+            "ENT-34"
+        ],
+        "Amount": [
+            1,
+            1
+        ],
+        "NumberOfShares": [
+            1,
+            1
+        ],
+        "ValuePerShare": [
+            1,
+            1
+        ],
+        "CapitalType": [
+            "Ordinary",
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "50%",
+            "50%"
+        ],
+        "Entity_ID": "ENT-35",
+        "Entity_Short_Name": "Demo UK Entity 4",
+        "Entity_Unique_ID": "ENT-35",
+        "countryID": "GB",
+        "ParentCompanyHolding": [
+            "50%",
+            "50%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-33",
+            "ENT-34"
+        ],
+        "GraphParentCompanyHolding": [
+            "50%",
+            "50%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo UK Entity 2",
+            "Demo UK Entity 1",
+            "Demo TopCo plc",
+            "Demo UK Entity 3"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-33",
+            "ENT-32",
+            "ENT-21",
+            "ENT-34"
+        ]
+    },
+    "ENT-36": {
+        "EntityName": "Demo UK Entity 5",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 6,
+        "Address_Line_2": "Demo London House",
+        "Address_Line_3": "SW3 4BH",
+        "Shareholder": [
+            "Demo UK Entity 3"
+        ],
+        "Jurisdiction": "UK",
+        "IssuedDate": [
+            "18/03/1999"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-34"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-36",
+        "Entity_Short_Name": "Demo UK Entity 5",
+        "Entity_Unique_ID": "ENT-36",
+        "countryID": "GB",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-34"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo UK Entity 3",
+            "Demo UK Entity 1",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-34",
+            "ENT-32",
+            "ENT-21"
+        ]
+    },
+    "ENT-37": {
+        "EntityName": "Demo UK Entity 6",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 6,
+        "Address_Line_2": "Demo London House",
+        "Address_Line_3": "SW3 4BH",
+        "Shareholder": [
+            "Demo UK Entity 3"
+        ],
+        "Jurisdiction": "UK",
+        "IssuedDate": [
+            "18/03/1999"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-34"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-37",
+        "Entity_Short_Name": "Demo UK Entity 6",
+        "Entity_Unique_ID": "ENT-37",
+        "countryID": "GB",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-34"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo UK Entity 3",
+            "Demo UK Entity 1",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-34",
+            "ENT-32",
+            "ENT-21"
+        ]
+    },
+    "ENT-38": {
+        "EntityName": "Demo UK Entity 7",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 6,
+        "Address_Line_2": "Demo London House",
+        "Address_Line_3": "SW3 4BH",
+        "Shareholder": [
+            "Demo UK Entity 3"
+        ],
+        "Jurisdiction": "UK",
+        "IssuedDate": [
+            "18/03/1999"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-34"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-38",
+        "Entity_Short_Name": "Demo UK Entity 7",
+        "Entity_Unique_ID": "ENT-38",
+        "countryID": "GB",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-34"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo UK Entity 3",
+            "Demo UK Entity 1",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-34",
+            "ENT-32",
+            "ENT-21"
+        ]
+    },
+    "ENT-39": {
+        "EntityName": "Demo UK Entity 8",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 6,
+        "Address_Line_2": "Demo London House",
+        "Address_Line_3": "SW3 4BH",
+        "Shareholder": [
+            "Demo UK Entity 3"
+        ],
+        "Jurisdiction": "UK",
+        "IssuedDate": [
+            "18/03/1999"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-34"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-39",
+        "Entity_Short_Name": "Demo UK Entity 8",
+        "Entity_Unique_ID": "ENT-39",
+        "countryID": "GB",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-34"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo UK Entity 3",
+            "Demo UK Entity 1",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-34",
+            "ENT-32",
+            "ENT-21"
+        ]
+    },
+    "ENT-40": {
+        "EntityName": "Demo UK Entity 9",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 6,
+        "Address_Line_2": "Demo London House",
+        "Address_Line_3": "SW3 4BH",
+        "Shareholder": [
+            "Demo UK Entity 6"
+        ],
+        "Jurisdiction": "UK",
+        "IssuedDate": [
+            "18/03/1999"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-37"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-40",
+        "Entity_Short_Name": "Demo UK Entity 9",
+        "Entity_Unique_ID": "ENT-40",
+        "countryID": "GB",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-37"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo UK Entity 6",
+            "Demo UK Entity 3",
+            "Demo UK Entity 1",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-37",
+            "ENT-34",
+            "ENT-32",
+            "ENT-21"
+        ]
+    },
+    "ENT-41": {
+        "EntityName": "Demo UK Entity 10",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 6,
+        "Address_Line_2": "Demo London House",
+        "Address_Line_3": "SW3 4BH",
+        "Shareholder": [
+            "Demo UK Entity 6"
+        ],
+        "Jurisdiction": "UK",
+        "IssuedDate": [
+            "18/03/1999"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-37"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-41",
+        "Entity_Short_Name": "Demo UK Entity 10",
+        "Entity_Unique_ID": "ENT-41",
+        "countryID": "GB",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-37"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo UK Entity 6",
+            "Demo UK Entity 3",
+            "Demo UK Entity 1",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-37",
+            "ENT-34",
+            "ENT-32",
+            "ENT-21"
+        ]
+    },
+    "ENT-42": {
+        "EntityName": "Demo Finland 1 Oy",
+        "EntityType": "BV",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 144,
+        "Address_Line_2": "Demostraat",
+        "Address_Line_3": "1068 ZZ",
+        "Shareholder": [
+            "Demo Holding BV"
+        ],
+        "Jurisdiction": "Finland",
+        "IssuedDate": [
+            "03/02/2020"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-6"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-42",
+        "Entity_Short_Name": "Demo Finland 1 Oy",
+        "Entity_Unique_ID": "ENT-42",
+        "countryID": "FI",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-6"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-43": {
+        "EntityName": "Demo Finland 2 Oy",
+        "EntityType": "BV",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 144,
+        "Address_Line_2": "Demostraat",
+        "Address_Line_3": "1068 ZZ",
+        "Shareholder": [
+            "Demo Holding BV",
+            "Demo Finland 1 Oy"
+        ],
+        "Jurisdiction": "Finland",
+        "IssuedDate": [
+            "03/02/2020",
+            "03/02/2020"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-6",
+            "ENT-42"
+        ],
+        "Amount": [
+            1,
+            1
+        ],
+        "NumberOfShares": [
+            1,
+            1
+        ],
+        "ValuePerShare": [
+            1,
+            1
+        ],
+        "CapitalType": [
+            "Ordinary",
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "50%",
+            "50%"
+        ],
+        "Entity_ID": "ENT-43",
+        "Entity_Short_Name": "Demo Finland 2 Oy",
+        "Entity_Unique_ID": "ENT-43",
+        "countryID": "FI",
+        "ParentCompanyHolding": [
+            "50%",
+            "50%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-6",
+            "ENT-42"
+        ],
+        "GraphParentCompanyHolding": [
+            "50%",
+            "50%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Holding BV",
+            "Demo TopCo plc",
+            "Demo Finland 1 Oy"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-6",
+            "ENT-21",
+            "ENT-42"
+        ]
+    },
+    "ENT-44": {
+        "EntityName": "Demo Finland 3 Oy",
+        "EntityType": "Oy",
+        "FiscalYearend": "31-Mar",
+        "Address_Line_1": 144,
+        "Address_Line_2": "Demo Helsinkinkatu",
+        "Address_Line_3": 2309,
+        "Shareholder": [
+            "Demo Finland 2 Oy"
+        ],
+        "Jurisdiction": "Finland",
+        "IssuedDate": [
+            "03/02/2020"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-43"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-44",
+        "Entity_Short_Name": "Demo Finland 3 Oy",
+        "Entity_Unique_ID": "ENT-44",
+        "countryID": "FI",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-43"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Finland 2 Oy",
+            "Demo Holding BV",
+            "Demo TopCo plc",
+            "Demo Finland 1 Oy"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-43",
+            "ENT-6",
+            "ENT-21",
+            "ENT-42"
+        ]
+    },
+    "ENT-45": {
+        "EntityName": "Demo Finland 4 Oy",
+        "EntityType": "Oy",
+        "FiscalYearend": "31-Mar",
+        "Address_Line_1": 144,
+        "Address_Line_2": "Demo Helsinkinkatu",
+        "Address_Line_3": 2309,
+        "Shareholder": [
+            "Demo Finland 2 Oy"
+        ],
+        "Jurisdiction": "Finland",
+        "IssuedDate": [
+            "03/02/2020"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-43"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-45",
+        "Entity_Short_Name": "Demo Finland 4 Oy",
+        "Entity_Unique_ID": "ENT-45",
+        "countryID": "FI",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-43"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Finland 2 Oy",
+            "Demo Holding BV",
+            "Demo TopCo plc",
+            "Demo Finland 1 Oy"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-43",
+            "ENT-6",
+            "ENT-21",
+            "ENT-42"
+        ]
+    },
+    "ENT-46": {
+        "EntityName": "Demo Finland 5 Oy",
+        "EntityType": "Oy",
+        "FiscalYearend": "31-Mar",
+        "Address_Line_1": 144,
+        "Address_Line_2": "Demo Helsinkinkatu",
+        "Address_Line_3": 2309,
+        "Shareholder": [
+            "Demo Finland 3 Oy"
+        ],
+        "Jurisdiction": "Finland",
+        "IssuedDate": [
+            "03/02/2020"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-44"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-46",
+        "Entity_Short_Name": "Demo Finland 5 Oy",
+        "Entity_Unique_ID": "ENT-46",
+        "countryID": "FI",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-44"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Finland 3 Oy",
+            "Demo Finland 2 Oy",
+            "Demo Holding BV",
+            "Demo TopCo plc",
+            "Demo Finland 1 Oy"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-44",
+            "ENT-43",
+            "ENT-6",
+            "ENT-21",
+            "ENT-42"
+        ]
+    },
+    "ENT-47": {
+        "EntityName": "Demo Finland 6 Oy",
+        "EntityType": "Oy",
+        "FiscalYearend": "31-Mar",
+        "Address_Line_1": 144,
+        "Address_Line_2": "Demo Helsinkinkatu",
+        "Address_Line_3": 2309,
+        "Shareholder": [
+            "Demo Finland 3 Oy"
+        ],
+        "Jurisdiction": "Finland",
+        "IssuedDate": [
+            "03/02/2020"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-44"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-47",
+        "Entity_Short_Name": "Demo Finland 6 Oy",
+        "Entity_Unique_ID": "ENT-47",
+        "countryID": "FI",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-44"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Finland 3 Oy",
+            "Demo Finland 2 Oy",
+            "Demo Holding BV",
+            "Demo TopCo plc",
+            "Demo Finland 1 Oy"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-44",
+            "ENT-43",
+            "ENT-6",
+            "ENT-21",
+            "ENT-42"
+        ]
+    },
+    "ENT-48": {
+        "EntityName": "Demo Finland 7 Oy",
+        "EntityType": "Oy",
+        "FiscalYearend": "31-Mar",
+        "Address_Line_1": 144,
+        "Address_Line_2": "Demo Helsinkinkatu",
+        "Address_Line_3": 2309,
+        "Shareholder": [
+            "Demo Finland 5 Oy"
+        ],
+        "Jurisdiction": "Finland",
+        "IssuedDate": [
+            "03/02/2020"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-46"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-48",
+        "Entity_Short_Name": "Demo Finland 7 Oy",
+        "Entity_Unique_ID": "ENT-48",
+        "countryID": "FI",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-46"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Finland 5 Oy",
+            "Demo Finland 3 Oy",
+            "Demo Finland 2 Oy",
+            "Demo Holding BV",
+            "Demo TopCo plc",
+            "Demo Finland 1 Oy"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-46",
+            "ENT-44",
+            "ENT-43",
+            "ENT-6",
+            "ENT-21",
+            "ENT-42"
+        ]
+    },
+    "ENT-49": {
+        "EntityName": "Demo Finland 8 Oy",
+        "EntityType": "Oy",
+        "FiscalYearend": "31-Mar",
+        "Address_Line_1": 144,
+        "Address_Line_2": "Demo Helsinkinkatu",
+        "Address_Line_3": 2309,
+        "Shareholder": [
+            "Demo Finland 5 Oy"
+        ],
+        "Jurisdiction": "Finland",
+        "IssuedDate": [
+            "03/02/2020"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-46"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-49",
+        "Entity_Short_Name": "Demo Finland 8 Oy",
+        "Entity_Unique_ID": "ENT-49",
+        "countryID": "FI",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-46"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Finland 5 Oy",
+            "Demo Finland 3 Oy",
+            "Demo Finland 2 Oy",
+            "Demo Holding BV",
+            "Demo TopCo plc",
+            "Demo Finland 1 Oy"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-46",
+            "ENT-44",
+            "ENT-43",
+            "ENT-6",
+            "ENT-21",
+            "ENT-42"
+        ]
+    },
+    "ENT-50": {
+        "EntityName": "Demo Finland 9 Oy",
+        "EntityType": "Oy",
+        "FiscalYearend": "31-Mar",
+        "Address_Line_1": 144,
+        "Address_Line_2": "Demo Helsinkinkatu",
+        "Address_Line_3": 2309,
+        "Shareholder": [
+            "Demo Finland 5 Oy"
+        ],
+        "Jurisdiction": "Finland",
+        "IssuedDate": [
+            "03/02/2020"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-46"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-50",
+        "Entity_Short_Name": "Demo Finland 9 Oy",
+        "Entity_Unique_ID": "ENT-50",
+        "countryID": "FI",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-46"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Finland 5 Oy",
+            "Demo Finland 3 Oy",
+            "Demo Finland 2 Oy",
+            "Demo Holding BV",
+            "Demo TopCo plc",
+            "Demo Finland 1 Oy"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-46",
+            "ENT-44",
+            "ENT-43",
+            "ENT-6",
+            "ENT-21",
+            "ENT-42"
+        ]
+    },
+    "ENT-51": {
+        "EntityName": "Demo Finland 10 Oy",
+        "EntityType": "Oy",
+        "FiscalYearend": "31-Mar",
+        "Address_Line_1": 144,
+        "Address_Line_2": "Demo Helsinkinkatu",
+        "Address_Line_3": 2309,
+        "Shareholder": [
+            "Demo Finland 5 Oy"
+        ],
+        "Jurisdiction": "Finland",
+        "IssuedDate": [
+            "03/02/2020"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-46"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-51",
+        "Entity_Short_Name": "Demo Finland 10 Oy",
+        "Entity_Unique_ID": "ENT-51",
+        "countryID": "FI",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-46"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Finland 5 Oy",
+            "Demo Finland 3 Oy",
+            "Demo Finland 2 Oy",
+            "Demo Holding BV",
+            "Demo TopCo plc",
+            "Demo Finland 1 Oy"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-46",
+            "ENT-44",
+            "ENT-43",
+            "ENT-6",
+            "ENT-21",
+            "ENT-42"
+        ]
+    },
+    "ENT-52": {
+        "EntityName": "Demo Germany Entity 1 GmbH",
+        "EntityType": "BV",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 9,
+        "Address_Line_2": "Demostraat",
+        "Address_Line_3": "1068 ZZ",
+        "Shareholder": [
+            "Demo Holding BV"
+        ],
+        "Jurisdiction": "Germany",
+        "IssuedDate": [
+            "27/05/2000"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-6"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-52",
+        "Entity_Short_Name": "Demo Germany Entity 1 GmbH",
+        "Entity_Unique_ID": "ENT-52",
+        "countryID": "DE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-6"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-53": {
+        "EntityName": "Demo Germany Entity 2 GmbH",
+        "EntityType": "GmbH",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 9,
+        "Address_Line_2": "Demo Deutschland Stra�e",
+        "Address_Line_3": 6002,
+        "Shareholder": [
+            "Demo Germany Entity 1 GmbH"
+        ],
+        "Jurisdiction": "Germany",
+        "IssuedDate": [
+            "27/05/2000"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-52"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-53",
+        "Entity_Short_Name": "Demo Germany Entity 2 GmbH",
+        "Entity_Unique_ID": "ENT-53",
+        "countryID": "DE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-52"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Germany Entity 1 GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-52",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-54": {
+        "EntityName": "Demo Germany Entity 3 GmbH",
+        "EntityType": "GmbH",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 9,
+        "Address_Line_2": "Demo Deutschland Stra�e",
+        "Address_Line_3": 6002,
+        "Shareholder": [
+            "Demo Germany Entity 1 GmbH"
+        ],
+        "Jurisdiction": "Germany",
+        "IssuedDate": [
+            "27/05/2000"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-52"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-54",
+        "Entity_Short_Name": "Demo Germany Entity 3 GmbH",
+        "Entity_Unique_ID": "ENT-54",
+        "countryID": "DE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-52"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Germany Entity 1 GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-52",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-55": {
+        "EntityName": "Demo Germany Entity 4 GmbH",
+        "EntityType": "GmbH",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 9,
+        "Address_Line_2": "Demo Deutschland Stra�e",
+        "Address_Line_3": 6002,
+        "Shareholder": [
+            "Demo Germany Entity 1 GmbH",
+            "Demo Germany Entity 2 GmbH"
+        ],
+        "Jurisdiction": "Germany",
+        "IssuedDate": [
+            "27/05/2000",
+            "27/05/2000"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-52",
+            "ENT-53"
+        ],
+        "Amount": [
+            1,
+            1
+        ],
+        "NumberOfShares": [
+            1,
+            1
+        ],
+        "ValuePerShare": [
+            1,
+            1
+        ],
+        "CapitalType": [
+            "Ordinary",
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "50%",
+            "50%"
+        ],
+        "Entity_ID": "ENT-55",
+        "Entity_Short_Name": "Demo Germany Entity 4 GmbH",
+        "Entity_Unique_ID": "ENT-55",
+        "countryID": "DE",
+        "ParentCompanyHolding": [
+            "50%",
+            "50%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-52",
+            "ENT-53"
+        ],
+        "GraphParentCompanyHolding": [
+            "50%",
+            "50%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Germany Entity 1 GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc",
+            "Demo Germany Entity 2 GmbH"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-52",
+            "ENT-6",
+            "ENT-21",
+            "ENT-53"
+        ]
+    },
+    "ENT-56": {
+        "EntityName": "Demo Germany Entity 5 GmbH",
+        "EntityType": "GmbH",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 9,
+        "Address_Line_2": "Demo Deutschland Stra�e",
+        "Address_Line_3": 6002,
+        "Shareholder": [
+            "Demo Germany Entity 2 GmbH"
+        ],
+        "Jurisdiction": "Germany",
+        "IssuedDate": [
+            "27/05/2000"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-53"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-56",
+        "Entity_Short_Name": "Demo Germany Entity 5 GmbH",
+        "Entity_Unique_ID": "ENT-56",
+        "countryID": "DE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-53"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Germany Entity 2 GmbH",
+            "Demo Germany Entity 1 GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-53",
+            "ENT-52",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-57": {
+        "EntityName": "Demo Germany Entity 6 GmbH",
+        "EntityType": "GmbH",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 9,
+        "Address_Line_2": "Demo Deutschland Stra�e",
+        "Address_Line_3": 6002,
+        "Shareholder": [
+            "Demo Germany Entity 2 GmbH"
+        ],
+        "Jurisdiction": "Germany",
+        "IssuedDate": [
+            "27/05/2000"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-53"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-57",
+        "Entity_Short_Name": "Demo Germany Entity 6 GmbH",
+        "Entity_Unique_ID": "ENT-57",
+        "countryID": "DE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-53"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Germany Entity 2 GmbH",
+            "Demo Germany Entity 1 GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-53",
+            "ENT-52",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-58": {
+        "EntityName": "Demo Germany Entity 7 GmbH",
+        "EntityType": "GmbH",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 9,
+        "Address_Line_2": "Demo Deutschland Stra�e",
+        "Address_Line_3": 6002,
+        "Shareholder": [
+            "Demo Germany Entity 2 GmbH"
+        ],
+        "Jurisdiction": "Germany",
+        "IssuedDate": [
+            "27/05/2000"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-53"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-58",
+        "Entity_Short_Name": "Demo Germany Entity 7 GmbH",
+        "Entity_Unique_ID": "ENT-58",
+        "countryID": "DE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-53"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Germany Entity 2 GmbH",
+            "Demo Germany Entity 1 GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-53",
+            "ENT-52",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-59": {
+        "EntityName": "Demo Germany Entity 8 GmbH",
+        "EntityType": "GmbH",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 9,
+        "Address_Line_2": "Demo Deutschland Stra�e",
+        "Address_Line_3": 6002,
+        "Shareholder": [
+            "Demo Germany Entity 2 GmbH"
+        ],
+        "Jurisdiction": "Germany",
+        "IssuedDate": [
+            "27/05/2000"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-53"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-59",
+        "Entity_Short_Name": "Demo Germany Entity 8 GmbH",
+        "Entity_Unique_ID": "ENT-59",
+        "countryID": "DE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-53"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Germany Entity 2 GmbH",
+            "Demo Germany Entity 1 GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-53",
+            "ENT-52",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-60": {
+        "EntityName": "Demo Germany Entity 9 GmbH",
+        "EntityType": "GmbH",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 9,
+        "Address_Line_2": "Demo Deutschland Stra�e",
+        "Address_Line_3": 6002,
+        "Shareholder": [
+            "Demo Germany Entity 2 GmbH"
+        ],
+        "Jurisdiction": "Germany",
+        "IssuedDate": [
+            "27/05/2000"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-53"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-60",
+        "Entity_Short_Name": "Demo Germany Entity 9 GmbH",
+        "Entity_Unique_ID": "ENT-60",
+        "countryID": "DE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-53"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Germany Entity 2 GmbH",
+            "Demo Germany Entity 1 GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-53",
+            "ENT-52",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-61": {
+        "EntityName": "Demo Germany Entity 10 GmbH",
+        "EntityType": "GmbH",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 9,
+        "Address_Line_2": "Demo Deutschland Stra�e",
+        "Address_Line_3": 6002,
+        "Shareholder": [
+            "Demo Germany Entity 2 GmbH"
+        ],
+        "Jurisdiction": "Germany",
+        "IssuedDate": [
+            "27/05/2000"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-53"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-61",
+        "Entity_Short_Name": "Demo Germany Entity 10 GmbH",
+        "Entity_Unique_ID": "ENT-61",
+        "countryID": "DE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-53"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Germany Entity 2 GmbH",
+            "Demo Germany Entity 1 GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-53",
+            "ENT-52",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-62": {
+        "EntityName": "Demo New Zealand Entity 1 Limited",
+        "EntityType": "plc",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 2,
+        "Address_Line_2": "Demo Square",
+        "Address_Line_3": "E14 5GL",
+        "Shareholder": [
+            "Demo TopCo plc",
+            "Demo TopCo plc"
+        ],
+        "Jurisdiction": "New Zealand",
+        "IssuedDate": [
+            "01/01/1993",
+            "01/01/1993"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-21",
+            "ENT-21"
+        ],
+        "Amount": [
+            1,
+            1
+        ],
+        "NumberOfShares": [
+            1,
+            1
+        ],
+        "ValuePerShare": [
+            1,
+            1
+        ],
+        "CapitalType": [
+            "Ordinary",
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%",
+            "50%"
+        ],
+        "Entity_ID": "ENT-62",
+        "Entity_Short_Name": "Demo New Zealand Entity 1 Limited",
+        "Entity_Unique_ID": "ENT-62",
+        "countryID": "NZ",
+        "ParentCompanyHolding": [
+            "100%",
+            "50%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-21",
+            "ENT-21"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%",
+            "50%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-21"
+        ]
+    },
+    "ENT-63": {
+        "EntityName": "Demo New Zealand Entity 2 Limited",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 2,
+        "Address_Line_2": "Demo Aukland Road",
+        "Address_Line_3": 90,
+        "Shareholder": [
+            "Demo New Zealand Entity 1 Limited"
+        ],
+        "Jurisdiction": "New Zealand",
+        "IssuedDate": [
+            "01/01/1993"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-62"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "50%"
+        ],
+        "Entity_ID": "ENT-63",
+        "Entity_Short_Name": "Demo New Zealand Entity 2 Limited",
+        "Entity_Unique_ID": "ENT-63",
+        "countryID": "NZ",
+        "ParentCompanyHolding": [
+            "50%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-62"
+        ],
+        "GraphParentCompanyHolding": [
+            "50%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo New Zealand Entity 1 Limited",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-62",
+            "ENT-21"
+        ]
+    },
+    "ENT-64": {
+        "EntityName": "Demo New Zealand Entity 3 Limited",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 2,
+        "Address_Line_2": "Demo Aukland Road",
+        "Address_Line_3": 90,
+        "Shareholder": [
+            "Demo New Zealand Entity 2 Limited"
+        ],
+        "Jurisdiction": "New Zealand",
+        "IssuedDate": [
+            "01/01/1993"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-62"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-64",
+        "Entity_Short_Name": "Demo New Zealand Entity 3 Limited",
+        "Entity_Unique_ID": "ENT-64",
+        "countryID": "NZ",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-62"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo New Zealand Entity 1 Limited",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-62",
+            "ENT-21"
+        ]
+    },
+    "ENT-65": {
+        "EntityName": "Demo New Zealand Entity 4 Limited",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 2,
+        "Address_Line_2": "Demo Aukland Road",
+        "Address_Line_3": 90,
+        "Shareholder": [
+            "Demo New Zealand Entity 3 Limited"
+        ],
+        "Jurisdiction": "New Zealand",
+        "IssuedDate": [
+            "01/01/1993"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-64"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-65",
+        "Entity_Short_Name": "Demo New Zealand Entity 4 Limited",
+        "Entity_Unique_ID": "ENT-65",
+        "countryID": "NZ",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-64"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo New Zealand Entity 3 Limited",
+            "Demo New Zealand Entity 1 Limited",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-64",
+            "ENT-62",
+            "ENT-21"
+        ]
+    },
+    "ENT-66": {
+        "EntityName": "Demo New Zealand Entity 5 Limited",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 2,
+        "Address_Line_2": "Demo Aukland Road",
+        "Address_Line_3": 90,
+        "Shareholder": [
+            "Demo New Zealand Entity 4 Limited"
+        ],
+        "Jurisdiction": "New Zealand",
+        "IssuedDate": [
+            "01/01/1993"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-65"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-66",
+        "Entity_Short_Name": "Demo New Zealand Entity 5 Limited",
+        "Entity_Unique_ID": "ENT-66",
+        "countryID": "NZ",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-65"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo New Zealand Entity 4 Limited",
+            "Demo New Zealand Entity 3 Limited",
+            "Demo New Zealand Entity 1 Limited",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-65",
+            "ENT-64",
+            "ENT-62",
+            "ENT-21"
+        ]
+    },
+    "ENT-67": {
+        "EntityName": "Demo New Zealand Entity 6 Limited",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 2,
+        "Address_Line_2": "Demo Aukland Road",
+        "Address_Line_3": 90,
+        "Shareholder": [
+            "Demo New Zealand Entity 5 Limited"
+        ],
+        "Jurisdiction": "New Zealand",
+        "IssuedDate": [
+            "01/01/1993"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-66"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-67",
+        "Entity_Short_Name": "Demo New Zealand Entity 6 Limited",
+        "Entity_Unique_ID": "ENT-67",
+        "countryID": "NZ",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-66"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo New Zealand Entity 5 Limited",
+            "Demo New Zealand Entity 4 Limited",
+            "Demo New Zealand Entity 3 Limited",
+            "Demo New Zealand Entity 1 Limited",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-66",
+            "ENT-65",
+            "ENT-64",
+            "ENT-62",
+            "ENT-21"
+        ]
+    },
+    "ENT-68": {
+        "EntityName": "Demo New Zealand Entity 7 Limited",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 2,
+        "Address_Line_2": "Demo Aukland Road",
+        "Address_Line_3": 90,
+        "Shareholder": [
+            "Demo New Zealand Entity 6 Limited"
+        ],
+        "Jurisdiction": "New Zealand",
+        "IssuedDate": [
+            "01/01/1993"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-67"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-68",
+        "Entity_Short_Name": "Demo New Zealand Entity 7 Limited",
+        "Entity_Unique_ID": "ENT-68",
+        "countryID": "NZ",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-67"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo New Zealand Entity 6 Limited",
+            "Demo New Zealand Entity 5 Limited",
+            "Demo New Zealand Entity 4 Limited",
+            "Demo New Zealand Entity 3 Limited",
+            "Demo New Zealand Entity 1 Limited",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-67",
+            "ENT-66",
+            "ENT-65",
+            "ENT-64",
+            "ENT-62",
+            "ENT-21"
+        ]
+    },
+    "ENT-69": {
+        "EntityName": "Demo New Zealand Entity 8 Limited",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 2,
+        "Address_Line_2": "Demo Aukland Road",
+        "Address_Line_3": 90,
+        "Shareholder": [
+            "Demo New Zealand Entity 7 Limited"
+        ],
+        "Jurisdiction": "New Zealand",
+        "IssuedDate": [
+            "01/01/1993"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-68"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-69",
+        "Entity_Short_Name": "Demo New Zealand Entity 8 Limited",
+        "Entity_Unique_ID": "ENT-69",
+        "countryID": "NZ",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-68"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo New Zealand Entity 7 Limited",
+            "Demo New Zealand Entity 6 Limited",
+            "Demo New Zealand Entity 5 Limited",
+            "Demo New Zealand Entity 4 Limited",
+            "Demo New Zealand Entity 3 Limited",
+            "Demo New Zealand Entity 1 Limited",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-68",
+            "ENT-67",
+            "ENT-66",
+            "ENT-65",
+            "ENT-64",
+            "ENT-62",
+            "ENT-21"
+        ]
+    },
+    "ENT-70": {
+        "EntityName": "Demo New Zealand Entity 9 Limited",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 2,
+        "Address_Line_2": "Demo Aukland Road",
+        "Address_Line_3": 90,
+        "Shareholder": [
+            "Demo New Zealand Entity 8 Limited"
+        ],
+        "Jurisdiction": "New Zealand",
+        "IssuedDate": [
+            "01/01/1993"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-69"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-70",
+        "Entity_Short_Name": "Demo New Zealand Entity 9 Limited",
+        "Entity_Unique_ID": "ENT-70",
+        "countryID": "NZ",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-69"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo New Zealand Entity 8 Limited",
+            "Demo New Zealand Entity 7 Limited",
+            "Demo New Zealand Entity 6 Limited",
+            "Demo New Zealand Entity 5 Limited",
+            "Demo New Zealand Entity 4 Limited",
+            "Demo New Zealand Entity 3 Limited",
+            "Demo New Zealand Entity 1 Limited",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-69",
+            "ENT-68",
+            "ENT-67",
+            "ENT-66",
+            "ENT-65",
+            "ENT-64",
+            "ENT-62",
+            "ENT-21"
+        ]
+    },
+    "ENT-71": {
+        "EntityName": "Demo New Zealand Entity 10 Limited",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 2,
+        "Address_Line_2": "Demo Aukland Road",
+        "Address_Line_3": 90,
+        "Shareholder": [
+            "Demo New Zealand Entity 9 Limited"
+        ],
+        "Jurisdiction": "New Zealand",
+        "IssuedDate": [
+            "01/01/1993"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-70"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-71",
+        "Entity_Short_Name": "Demo New Zealand Entity 10 Limited",
+        "Entity_Unique_ID": "ENT-71",
+        "countryID": "NZ",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-70"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo New Zealand Entity 9 Limited",
+            "Demo New Zealand Entity 8 Limited",
+            "Demo New Zealand Entity 7 Limited",
+            "Demo New Zealand Entity 6 Limited",
+            "Demo New Zealand Entity 5 Limited",
+            "Demo New Zealand Entity 4 Limited",
+            "Demo New Zealand Entity 3 Limited",
+            "Demo New Zealand Entity 1 Limited",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-70",
+            "ENT-69",
+            "ENT-68",
+            "ENT-67",
+            "ENT-66",
+            "ENT-65",
+            "ENT-64",
+            "ENT-62",
+            "ENT-21"
+        ]
+    },
+    "ENT-72": {
+        "EntityName": "Demo France Entity 1 SAS",
+        "EntityType": "GmbH",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 174,
+        "Address_Line_2": "Demo-Stra�e",
+        "Address_Line_3": 60306,
+        "Shareholder": [
+            "Demo Holding GmbH"
+        ],
+        "Jurisdiction": "France",
+        "IssuedDate": [
+            "07/06/2005"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-7"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-72",
+        "Entity_Short_Name": "Demo France Entity 1 SAS",
+        "Entity_Unique_ID": "ENT-72",
+        "countryID": "FR",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-7"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Holding GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-7",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-73": {
+        "EntityName": "Demo France Entity 2 SAS",
+        "EntityType": "SAS",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 174,
+        "Address_Line_2": "Demo Paris Rue",
+        "Address_Line_3": 8,
+        "Shareholder": [
+            "Demo France Entity 1 SAS"
+        ],
+        "Jurisdiction": "France",
+        "IssuedDate": [
+            "07/06/2005"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-72"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-73",
+        "Entity_Short_Name": "Demo France Entity 2 SAS",
+        "Entity_Unique_ID": "ENT-73",
+        "countryID": "FR",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-72"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo France Entity 1 SAS",
+            "Demo Holding GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-72",
+            "ENT-7",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-74": {
+        "EntityName": "Demo France Entity 3 SAS",
+        "EntityType": "SAS",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 174,
+        "Address_Line_2": "Demo Paris Rue",
+        "Address_Line_3": 8,
+        "Shareholder": [
+            "Demo France Entity 1 SAS"
+        ],
+        "Jurisdiction": "France",
+        "IssuedDate": [
+            "07/06/2005"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-72"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-74",
+        "Entity_Short_Name": "Demo France Entity 3 SAS",
+        "Entity_Unique_ID": "ENT-74",
+        "countryID": "FR",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-72"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo France Entity 1 SAS",
+            "Demo Holding GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-72",
+            "ENT-7",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-75": {
+        "EntityName": "Demo France Entity 4 SAS",
+        "EntityType": "SAS",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 174,
+        "Address_Line_2": "Demo Paris Rue",
+        "Address_Line_3": 8,
+        "Shareholder": [
+            "Demo France Entity 1 SAS"
+        ],
+        "Jurisdiction": "France",
+        "IssuedDate": [
+            "07/06/2005"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-72"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-75",
+        "Entity_Short_Name": "Demo France Entity 4 SAS",
+        "Entity_Unique_ID": "ENT-75",
+        "countryID": "FR",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-72"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo France Entity 1 SAS",
+            "Demo Holding GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-72",
+            "ENT-7",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-76": {
+        "EntityName": "Demo France Entity 5 SAS",
+        "EntityType": "SAS",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 174,
+        "Address_Line_2": "Demo Paris Rue",
+        "Address_Line_3": 8,
+        "Shareholder": [
+            "Demo France Entity 1 SAS"
+        ],
+        "Jurisdiction": "France",
+        "IssuedDate": [
+            "07/06/2005"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-72"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-76",
+        "Entity_Short_Name": "Demo France Entity 5 SAS",
+        "Entity_Unique_ID": "ENT-76",
+        "countryID": "FR",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-72"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo France Entity 1 SAS",
+            "Demo Holding GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-72",
+            "ENT-7",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-77": {
+        "EntityName": "Demo France Entity 6 SAS",
+        "EntityType": "SAS",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 174,
+        "Address_Line_2": "Demo Paris Rue",
+        "Address_Line_3": 8,
+        "Shareholder": [
+            "Demo France Entity 2 SAS"
+        ],
+        "Jurisdiction": "France",
+        "IssuedDate": [
+            "07/06/2005"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-73"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-77",
+        "Entity_Short_Name": "Demo France Entity 6 SAS",
+        "Entity_Unique_ID": "ENT-77",
+        "countryID": "FR",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-73"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo France Entity 2 SAS",
+            "Demo France Entity 1 SAS",
+            "Demo Holding GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-73",
+            "ENT-72",
+            "ENT-7",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-78": {
+        "EntityName": "Demo France Entity 7 SAS",
+        "EntityType": "SAS",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 174,
+        "Address_Line_2": "Demo Paris Rue",
+        "Address_Line_3": 8,
+        "Shareholder": [
+            "Demo France Entity 3 SAS"
+        ],
+        "Jurisdiction": "France",
+        "IssuedDate": [
+            "07/06/2005"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-74"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-78",
+        "Entity_Short_Name": "Demo France Entity 7 SAS",
+        "Entity_Unique_ID": "ENT-78",
+        "countryID": "FR",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-74"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo France Entity 3 SAS",
+            "Demo France Entity 1 SAS",
+            "Demo Holding GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-74",
+            "ENT-72",
+            "ENT-7",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-79": {
+        "EntityName": "Demo France Entity 8 SAS",
+        "EntityType": "SAS",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 174,
+        "Address_Line_2": "Demo Paris Rue",
+        "Address_Line_3": 8,
+        "Shareholder": [
+            "Demo France Entity 4 SAS"
+        ],
+        "Jurisdiction": "France",
+        "IssuedDate": [
+            "07/06/2005"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-75"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-79",
+        "Entity_Short_Name": "Demo France Entity 8 SAS",
+        "Entity_Unique_ID": "ENT-79",
+        "countryID": "FR",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-75"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo France Entity 4 SAS",
+            "Demo France Entity 1 SAS",
+            "Demo Holding GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-75",
+            "ENT-72",
+            "ENT-7",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-80": {
+        "EntityName": "Demo France Entity 9 SAS",
+        "EntityType": "SAS",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 174,
+        "Address_Line_2": "Demo Paris Rue",
+        "Address_Line_3": 8,
+        "Shareholder": [
+            "Demo France Entity 4 SAS"
+        ],
+        "Jurisdiction": "France",
+        "IssuedDate": [
+            "07/06/2005"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-75"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-80",
+        "Entity_Short_Name": "Demo France Entity 9 SAS",
+        "Entity_Unique_ID": "ENT-80",
+        "countryID": "FR",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-75"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": true,
+        "Indirect_Parents": [
+            "Demo France Entity 4 SAS",
+            "Demo France Entity 1 SAS",
+            "Demo Holding GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-75",
+            "ENT-72",
+            "ENT-7",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-81": {
+        "EntityName": "Demo France Entity 10 SAS",
+        "EntityType": "SAS",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 174,
+        "Address_Line_2": "Demo Paris Rue",
+        "Address_Line_3": 8,
+        "Shareholder": [
+            "Demo France Entity 4 SAS"
+        ],
+        "Jurisdiction": "France",
+        "IssuedDate": [
+            "07/06/2005"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-75"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-81",
+        "Entity_Short_Name": "Demo France Entity 10 SAS",
+        "Entity_Unique_ID": "ENT-81",
+        "countryID": "FR",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-75"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo France Entity 4 SAS",
+            "Demo France Entity 1 SAS",
+            "Demo Holding GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-75",
+            "ENT-72",
+            "ENT-7",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-82": {
+        "EntityName": "Demo Ireland Entity 1 Limited",
+        "EntityType": "plc",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 367,
+        "Address_Line_2": "Demo Square",
+        "Address_Line_3": "E14 5GL",
+        "Shareholder": [
+            "Demo TopCo plc"
+        ],
+        "Jurisdiction": "Ireland",
+        "IssuedDate": [
+            "20/08/1998"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-21"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-82",
+        "Entity_Short_Name": "Demo Ireland Entity 1 Limited",
+        "Entity_Unique_ID": "ENT-82",
+        "countryID": "IE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-21"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-21"
+        ]
+    },
+    "ENT-83": {
+        "EntityName": "Demo Ireland Entity 2 Limited",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 367,
+        "Address_Line_2": "Demo Dublin Street",
+        "Address_Line_3": "D1 6GH",
+        "Shareholder": [
+            "Demo Ireland Entity 1 Limited"
+        ],
+        "Jurisdiction": "Ireland",
+        "IssuedDate": [
+            "20/08/1998"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-82"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-83",
+        "Entity_Short_Name": "Demo Ireland Entity 2 Limited",
+        "Entity_Unique_ID": "ENT-83",
+        "countryID": "IE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-82"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Ireland Entity 1 Limited",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-82",
+            "ENT-21"
+        ]
+    },
+    "ENT-84": {
+        "EntityName": "Demo Ireland Entity 3 Limited",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 367,
+        "Address_Line_2": "Demo Dublin Street",
+        "Address_Line_3": "D1 6GH",
+        "Shareholder": [
+            "Demo Ireland Entity 2 Limited"
+        ],
+        "Jurisdiction": "Ireland",
+        "IssuedDate": [
+            "20/08/1998"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-83"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-84",
+        "Entity_Short_Name": "Demo Ireland Entity 3 Limited",
+        "Entity_Unique_ID": "ENT-84",
+        "countryID": "IE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-83"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Ireland Entity 2 Limited",
+            "Demo Ireland Entity 1 Limited",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-83",
+            "ENT-82",
+            "ENT-21"
+        ]
+    },
+    "ENT-85": {
+        "EntityName": "Demo Ireland Entity 4 Limited",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 367,
+        "Address_Line_2": "Demo Dublin Street",
+        "Address_Line_3": "D1 6GH",
+        "Shareholder": [
+            "Demo Ireland Entity 3 Limited"
+        ],
+        "Jurisdiction": "Ireland",
+        "IssuedDate": [
+            "20/08/1998"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-84"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-85",
+        "Entity_Short_Name": "Demo Ireland Entity 4 Limited",
+        "Entity_Unique_ID": "ENT-85",
+        "countryID": "IE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-84"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Ireland Entity 3 Limited",
+            "Demo Ireland Entity 2 Limited",
+            "Demo Ireland Entity 1 Limited",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-84",
+            "ENT-83",
+            "ENT-82",
+            "ENT-21"
+        ]
+    },
+    "ENT-86": {
+        "EntityName": "Demo Ireland Entity 5 Limited",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 367,
+        "Address_Line_2": "Demo Dublin Street",
+        "Address_Line_3": "D1 6GH",
+        "Shareholder": [
+            "Demo Ireland Entity 4 Limited"
+        ],
+        "Jurisdiction": "Ireland",
+        "IssuedDate": [
+            "20/08/1998"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-85"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-86",
+        "Entity_Short_Name": "Demo Ireland Entity 5 Limited",
+        "Entity_Unique_ID": "ENT-86",
+        "countryID": "IE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-85"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Ireland Entity 4 Limited",
+            "Demo Ireland Entity 3 Limited",
+            "Demo Ireland Entity 2 Limited",
+            "Demo Ireland Entity 1 Limited",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-85",
+            "ENT-84",
+            "ENT-83",
+            "ENT-82",
+            "ENT-21"
+        ]
+    },
+    "ENT-87": {
+        "EntityName": "Demo Ireland Entity 6 Limited",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 367,
+        "Address_Line_2": "Demo Dublin Street",
+        "Address_Line_3": "D1 6GH",
+        "Shareholder": [
+            "Demo Ireland Entity 4 Limited"
+        ],
+        "Jurisdiction": "Ireland",
+        "IssuedDate": [
+            "20/08/1998"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-85"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-87",
+        "Entity_Short_Name": "Demo Ireland Entity 6 Limited",
+        "Entity_Unique_ID": "ENT-87",
+        "countryID": "IE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-85"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Ireland Entity 4 Limited",
+            "Demo Ireland Entity 3 Limited",
+            "Demo Ireland Entity 2 Limited",
+            "Demo Ireland Entity 1 Limited",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-85",
+            "ENT-84",
+            "ENT-83",
+            "ENT-82",
+            "ENT-21"
+        ]
+    },
+    "ENT-88": {
+        "EntityName": "Demo Ireland Entity 7 Limited",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 367,
+        "Address_Line_2": "Demo Dublin Street",
+        "Address_Line_3": "D1 6GH",
+        "Shareholder": [
+            "Demo Ireland Entity 4 Limited"
+        ],
+        "Jurisdiction": "Ireland",
+        "IssuedDate": [
+            "20/08/1998"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-85"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-88",
+        "Entity_Short_Name": "Demo Ireland Entity 7 Limited",
+        "Entity_Unique_ID": "ENT-88",
+        "countryID": "IE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-85"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Ireland Entity 4 Limited",
+            "Demo Ireland Entity 3 Limited",
+            "Demo Ireland Entity 2 Limited",
+            "Demo Ireland Entity 1 Limited",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-85",
+            "ENT-84",
+            "ENT-83",
+            "ENT-82",
+            "ENT-21"
+        ]
+    },
+    "ENT-89": {
+        "EntityName": "Demo Ireland Entity 8 Limited",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 367,
+        "Address_Line_2": "Demo Dublin Street",
+        "Address_Line_3": "D1 6GH",
+        "Shareholder": [
+            "Demo Ireland Entity 4 Limited"
+        ],
+        "Jurisdiction": "Ireland",
+        "IssuedDate": [
+            "20/08/1998"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-85"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-89",
+        "Entity_Short_Name": "Demo Ireland Entity 8 Limited",
+        "Entity_Unique_ID": "ENT-89",
+        "countryID": "IE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-85"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Ireland Entity 4 Limited",
+            "Demo Ireland Entity 3 Limited",
+            "Demo Ireland Entity 2 Limited",
+            "Demo Ireland Entity 1 Limited",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-85",
+            "ENT-84",
+            "ENT-83",
+            "ENT-82",
+            "ENT-21"
+        ]
+    },
+    "ENT-90": {
+        "EntityName": "Demo Ireland Entity 9 Limited",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 367,
+        "Address_Line_2": "Demo Dublin Street",
+        "Address_Line_3": "D1 6GH",
+        "Shareholder": [
+            "Demo Ireland Entity 5 Limited"
+        ],
+        "Jurisdiction": "Ireland",
+        "IssuedDate": [
+            "20/08/1998"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-86"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-90",
+        "Entity_Short_Name": "Demo Ireland Entity 9 Limited",
+        "Entity_Unique_ID": "ENT-90",
+        "countryID": "IE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-86"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Ireland Entity 5 Limited",
+            "Demo Ireland Entity 4 Limited",
+            "Demo Ireland Entity 3 Limited",
+            "Demo Ireland Entity 2 Limited",
+            "Demo Ireland Entity 1 Limited",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-86",
+            "ENT-85",
+            "ENT-84",
+            "ENT-83",
+            "ENT-82",
+            "ENT-21"
+        ]
+    },
+    "ENT-91": {
+        "EntityName": "Demo Ireland Entity 10 Limited",
+        "EntityType": "Limited",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 367,
+        "Address_Line_2": "Demo Dublin Street",
+        "Address_Line_3": "D1 6GH",
+        "Shareholder": [
+            "Demo Ireland Entity 5 Limited"
+        ],
+        "Jurisdiction": "Ireland",
+        "IssuedDate": [
+            "20/08/1998"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-86"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-91",
+        "Entity_Short_Name": "Demo Ireland Entity 10 Limited",
+        "Entity_Unique_ID": "ENT-91",
+        "countryID": "IE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-86"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Ireland Entity 5 Limited",
+            "Demo Ireland Entity 4 Limited",
+            "Demo Ireland Entity 3 Limited",
+            "Demo Ireland Entity 2 Limited",
+            "Demo Ireland Entity 1 Limited",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-86",
+            "ENT-85",
+            "ENT-84",
+            "ENT-83",
+            "ENT-82",
+            "ENT-21"
+        ]
+    },
+    "ENT-92": {
+        "EntityName": "Demo Sweden Entity 1 AB",
+        "EntityType": "GmbH",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 194,
+        "Address_Line_2": "Demo-Stra�e",
+        "Address_Line_3": 60306,
+        "Shareholder": [
+            "Demo Holding GmbH"
+        ],
+        "Jurisdiction": "Sweden",
+        "IssuedDate": [
+            "25/12/2012"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-7"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-92",
+        "Entity_Short_Name": "Demo Sweden Entity 1 AB",
+        "Entity_Unique_ID": "ENT-92",
+        "countryID": "SE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-7"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Holding GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-7",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-93": {
+        "EntityName": "Demo Sweden Entity 2 AB",
+        "EntityType": "AB",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 194,
+        "Address_Line_2": "Demo Stockholm Gate 1",
+        "Address_Line_3": 768,
+        "Shareholder": [
+            "Demo Sweden Entity 1 AB"
+        ],
+        "Jurisdiction": "Sweden",
+        "IssuedDate": [
+            "25/12/2012"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-92"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-93",
+        "Entity_Short_Name": "Demo Sweden Entity 2 AB",
+        "Entity_Unique_ID": "ENT-93",
+        "countryID": "SE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-92"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Sweden Entity 1 AB",
+            "Demo Holding GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-92",
+            "ENT-7",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-94": {
+        "EntityName": "Demo Sweden Entity 3 AB",
+        "EntityType": "AB",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 194,
+        "Address_Line_2": "Demo Stockholm Gate 1",
+        "Address_Line_3": 768,
+        "Shareholder": [
+            "Demo Sweden Entity 1 AB"
+        ],
+        "Jurisdiction": "Sweden",
+        "IssuedDate": [
+            "25/12/2012"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-92"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-94",
+        "Entity_Short_Name": "Demo Sweden Entity 3 AB",
+        "Entity_Unique_ID": "ENT-94",
+        "countryID": "SE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-92"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Sweden Entity 1 AB",
+            "Demo Holding GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-92",
+            "ENT-7",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-95": {
+        "EntityName": "Demo Sweden Entity 4 AB",
+        "EntityType": "AB",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 194,
+        "Address_Line_2": "Demo Stockholm Gate 1",
+        "Address_Line_3": 768,
+        "Shareholder": [
+            "Demo Sweden Entity 1 AB"
+        ],
+        "Jurisdiction": "Sweden",
+        "IssuedDate": [
+            "25/12/2012"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-92"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-95",
+        "Entity_Short_Name": "Demo Sweden Entity 4 AB",
+        "Entity_Unique_ID": "ENT-95",
+        "countryID": "SE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-92"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Sweden Entity 1 AB",
+            "Demo Holding GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-92",
+            "ENT-7",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-96": {
+        "EntityName": "Demo Sweden Entity 5 AB",
+        "EntityType": "AB",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 194,
+        "Address_Line_2": "Demo Stockholm Gate 3",
+        "Address_Line_3": 768,
+        "Shareholder": [
+            "Demo Sweden Entity 3 AB"
+        ],
+        "Jurisdiction": "Sweden",
+        "IssuedDate": [
+            "25/12/2012"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-94"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-96",
+        "Entity_Short_Name": "Demo Sweden Entity 5 AB",
+        "Entity_Unique_ID": "ENT-96",
+        "countryID": "SE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-94"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Sweden Entity 3 AB",
+            "Demo Sweden Entity 1 AB",
+            "Demo Holding GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-94",
+            "ENT-92",
+            "ENT-7",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-97": {
+        "EntityName": "Demo Sweden Entity 6 AB",
+        "EntityType": "AB",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 194,
+        "Address_Line_2": "Demo Stockholm Gate 4",
+        "Address_Line_3": 768,
+        "Shareholder": [
+            "Demo Sweden Entity 4 AB"
+        ],
+        "Jurisdiction": "Sweden",
+        "IssuedDate": [
+            "25/12/2012"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-95"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-97",
+        "Entity_Short_Name": "Demo Sweden Entity 6 AB",
+        "Entity_Unique_ID": "ENT-97",
+        "countryID": "SE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-95"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Sweden Entity 4 AB",
+            "Demo Sweden Entity 1 AB",
+            "Demo Holding GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-95",
+            "ENT-92",
+            "ENT-7",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "ENT-98": {
+        "EntityName": "Demo Sweden Entity 7 AB",
+        "EntityType": "AB",
+        "FiscalYearend": "31-Dec",
+        "Address_Line_1": 194,
+        "Address_Line_2": "Demo Stockholm Gate 5",
+        "Address_Line_3": 768,
+        "Shareholder": [
+            "Demo Sweden Entity 5 AB"
+        ],
+        "Jurisdiction": "Sweden",
+        "IssuedDate": [
+            "25/12/2012"
+        ],
+        "ParentCompanyIDs": [
+            "ENT-96"
+        ],
+        "Amount": [
+            1
+        ],
+        "NumberOfShares": [
+            1
+        ],
+        "ValuePerShare": [
+            1
+        ],
+        "CapitalType": [
+            "Ordinary"
+        ],
+        "OwnershipPercentage": [
+            "100%"
+        ],
+        "Entity_ID": "ENT-98",
+        "Entity_Short_Name": "Demo Sweden Entity 7 AB",
+        "Entity_Unique_ID": "ENT-98",
+        "countryID": "SE",
+        "ParentCompanyHolding": [
+            "100%"
+        ],
+        "GraphParentCompanies": [
+            "ENT-96"
+        ],
+        "GraphParentCompanyHolding": [
+            "100%"
+        ],
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false,
+        "Indirect_Parents": [
+            "Demo Sweden Entity 5 AB",
+            "Demo Sweden Entity 3 AB",
+            "Demo Sweden Entity 1 AB",
+            "Demo Holding GmbH",
+            "Demo Holding BV",
+            "Demo TopCo plc"
+        ],
+        "Indirect_Parents_IDS": [
+            "ENT-96",
+            "ENT-94",
+            "ENT-92",
+            "ENT-7",
+            "ENT-6",
+            "ENT-21"
+        ]
+    },
+    "UAT-1": {
+        "u1678363131672": "",
+        "Entity_ID": "UAT-1",
+        "EntityName": "UAT Test 9 March 2023",
+        "Jurisdiction": "Afghanistan",
+        "EntityType": "Subsidiary",
+        "Division": [],
+        "BusinessArea": [],
+        "ParentCompanyIDs": [
+            "ENT-30"
+        ],
+        "percentageOrActual": "percentage",
+        "Entity_Colour": "",
+        "Entity_Shape": "",
+        "Entity_Custom_Grouping": "",
+        "Entity_Unique_ID": "UAT-1",
+        "countryID": "AF",
+        "CountryCode": "AF",
+        "Entity_Short_Name": "UAT Test 9 March 2023",
+        "ParentCompanyHolding": [
+            5
+        ],
+        "ParentCompanyHoldingShareVoting": [],
+        "ParentCompanyHoldingShareClass": [],
+        "ParentCompanyHoldingShareNumber": [],
+        "ParentCompanyHoldingShareCurrency": [],
+        "ParentCompanyHoldingShareValue": [],
+        "Entity_Accounting_Currency": "",
+        "IBR-DEACTIVATED": false
+    }
+}
